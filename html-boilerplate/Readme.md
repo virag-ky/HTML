@@ -21,4 +21,4 @@ Sync the repository if there are changes in the upstream, then follow the steps 
 8. Push the changes to your fork (git push origin your_branch_name)
 9. Create a pull request
 10. Wait for the feedback
-11. If it gets approved then you did an excellent job, if not then I will request changes in the pull request (I will leave a comment) and then repeat from step 3
+11. If it gets approved then you did an excellent job, if not then I will request changes in the pull request (I will leave a comment) and then repeat the instructions from step 3
