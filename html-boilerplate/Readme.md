@@ -13,10 +13,10 @@ Follow the instructions to submit the homework:
 Sync the repository if there are changes in the upstream, then follow the steps below.
 
 
- 
+1. Make sure you are in the html-boilerplate folder
 1. Create a new branch (git branch "branch_name")
 2. Switch to the new branch (git checkout -b "branch_name")
-3. Create another folder with your GitHub username or regular name
+3. Create another folder inside the html-boilerplate folder with your GitHub username or regular name
 4. Create an index.html file
 5. Add the HTML boilerplate (try to create it by yourself)
 6. Change the text in the title element
