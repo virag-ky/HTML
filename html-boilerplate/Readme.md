@@ -1,5 +1,8 @@
 # HTML-boilerplate
 
+### Video:
+[![Watch the video](https://img.youtube.com/vi/q989wUBLq-4/hqdefault.jpg)](https://www.youtube.com/embed/q989wUBLq-4) 
+
 This first homework is mainly focusing on creating your first pull request.
 
 **If you are new to Git and GitHub then make sure to check out my video: [Git and GitHub for absolute beginners](https://youtu.be/WaAsfuVDJ_U?si=q4UFgWQH-uWIMBUu)**
