@@ -1,5 +1,8 @@
 # Links
 
+### Video:
+[![Watch the video](https://img.youtube.com/vi/s-yDaxyi42I/hqdefault.jpg)](https://www.youtube.com/embed/s-yDaxyi42I)
+
 **If you are new to Git and GitHub then make sure to check out my video: [Git and GitHub for absolute beginners](https://youtu.be/WaAsfuVDJ_U?si=q4UFgWQH-uWIMBUu)**
 
 Follow the instructions to submit the homework:
