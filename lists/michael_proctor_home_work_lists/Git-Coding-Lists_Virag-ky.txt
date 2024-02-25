@@ -1,0 +1,65 @@
+V6221@DESKTOP-1MR2OL4 MINGW64 ~/OneDrive/Desktop/Proctor_Virag-ky_List_home-work
+$ git init
+Initialized empty Git repository in C:/Users/V6221/OneDrive/Desktop/Proctor_Virag-ky_List_home-work/.git/
+
+V6221@DESKTOP-1MR2OL4 MINGW64 ~/OneDrive/Desktop/Proctor_Virag-ky_List_home-work (main)
+$ git status -s
+?? index.html
+
+V6221@DESKTOP-1MR2OL4 MINGW64 ~/OneDrive/Desktop/Proctor_Virag-ky_List_home-work (main)
+$ git add index.html
+
+V6221@DESKTOP-1MR2OL4 MINGW64 ~/OneDrive/Desktop/Proctor_Virag-ky_List_home-work (main)
+$ git commit -m "Index.html first initial commit for list project"
+[main (root-commit) 4baca57] Index.html first initial commit for list project
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 index.html
+
+V6221@DESKTOP-1MR2OL4 MINGW64 ~/OneDrive/Desktop/Proctor_Virag-ky_List_home-work (main)
+$ 
+
+
+{new branch created}
+
+V6221@DESKTOP-1MR2OL4 MINGW64 ~/OneDrive/Desktop/Proctor_Virag-ky_List_home-work (main)
+$ git checkout -b list_home_work
+Switched to a new branch 'list_home_work'
+
+V6221@DESKTOP-1MR2OL4 MINGW64 ~/OneDrive/Desktop/Proctor_Virag-ky_List_home-work (list_home_work)
+
+{Clone the repository}
+
+V6221@DESKTOP-1MR2OL4 MINGW64 ~/OneDrive/Desktop/Proctor_Virag-ky_List_home-work (list_home_work)
+$ git clone https://github.com/V180465/HTML_Proctor_.git
+Cloning into 'HTML_Proctor_'...
+remote: Enumerating objects: 221, done.
+remote: Counting objects: 100% (115/115), done.
+remote: Compressing objects: 100% (87/87), done.
+remote: Total 221 (delta 50), reused 54 (delta 23), pack-reused 106Receiving obj
+
+Resolving deltas: 100% (68/68)
+Resolving deltas: 100% (68/68), done.
+
+V6221@DESKTOP-1MR2OL4 MINGW64 ~/OneDrive/Desktop/Proctor_Virag-ky_List_home-work (list_home_work)
+$  
+
+V6221@DESKTOP-1MR2OL4 MINGW64 ~/OneDrive/Desktop/Proctor_Virag-ky_List_home-work (list_home_work)
+$ ls -ltr
+total 4
+-rw-r--r-- 1 V6221 197609 0 Feb 24 18:02 index.html
+drwxr-xr-x 1 V6221 197609 0 Feb 24 18:11 HTML_Proctor_/
+
+V6221@DESKTOP-1MR2OL4 MINGW64 ~/OneDrive/Desktop/Proctor_Virag-ky_List_home-work (list_home_work)
+$ 
+
+
+{Created a homework folder and moved index.html to home-work folder}
+
+V6221@DESKTOP-1MR2OL4 MINGW64 ~/OneDrive/Desktop/Proctor_Virag-ky_List_home-work/HTML_Proctor_/lists (main)
+$ mkdir michael_proctor_home_work_lists
+
+V6221@DESKTOP-1MR2OL4 MINGW64 ~/OneDrive/Desktop/Proctor_Virag-ky_List_home-work/HTML_Proctor_/lists (main)
+$ mv index.html michael_proctor_home_work_lists/
+
+V6221@DESKTOP-1MR2OL4 MINGW64 ~/OneDrive/Desktop/Proctor_Virag-ky_List_home-work/HTML_Proctor_/lists (main)
+$ 
